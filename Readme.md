@@ -69,10 +69,17 @@ Configured within the `gitlab-ci.yml` file, we cache the following paths:
 
 This approach promotes pipeline efficiency by limiting unnecessary recompilation and redownloading, thus conserving time and bandwidth.
 
-## **Technologies Used Till now**
+## **Technologies Used**
 - Java Spring Boot
 - JUnit
 - React
 - React-Bootstrap
 - HTML & CSS
 - GitLab CI/CD
+
+## **Team Members**
+- Uchenna
+- Keyur
+- Parth
+- Manan
+- Abdul
